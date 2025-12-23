@@ -27,16 +27,16 @@ export default function Hero() {
               CSE Student
             </p>
             <p className="text-base md:text-xl text-gray-700 mb-4 font-medium">
-              Java Backend Developer
+              Machine Learning Engineer
             </p>
 
             {/* About Me Section */}
             <div className="mb-6 p-4 bg-white/50 rounded-2xl border border-white/60 backdrop-blur-sm">
               <p className="text-gray-700 leading-relaxed">
-                Hello! I'm a Computer Science Engineering student at <span className="font-semibold text-orange-600">Walchand Institute of Technology, Solapur</span>, passionate about building impactful software solutions. I primarily work with Java, focusing on backend development and building efficient, scalable applications.
+                Hello! I'm a Computer Science Engineering student at <span className="font-semibold text-orange-600">Walchand Institute of Technology, Solapur</span>, passionate about building impactful software solutions. I primarily working with python and ML, focusing on Machine Learning and building efficient, scalable applications.
               </p>
               <p className="text-gray-700 leading-relaxed mt-4">
-                I enjoy turning ideas into functional systems and exploring web technologies, APIs, and databases to build full-stack solutions. I'm always eager to learn, collaborate, and take on new challenges that help me grow as a developer.
+                I enjoy turning ideas into functional systems and models. I'm always eager to learn, collaborate, and take on new challenges that help me grow as a developer.
               </p>
             </div>
 
