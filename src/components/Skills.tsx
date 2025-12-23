@@ -40,12 +40,6 @@ export default function Skills() {
       gradient: 'from-red-500 to-pink-500',
     },
     {
-      icon: Database,
-      title: 'Database',
-      skills: ['MySQL'],
-      gradient: 'from-pink-500 to-orange-500',
-    },
-    {
       icon: BookOpen,
       title: 'Languages',
       skills: ['C', 'Java', 'Python'],
