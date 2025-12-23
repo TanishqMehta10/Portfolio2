@@ -45,6 +45,12 @@ export default function Skills() {
       skills: ['C', 'Java', 'Python'],
       gradient: 'from-orange-600 to-red-600',
     },
+    {
+      icon: Server,
+      title: 'Tools',
+      skills: ['Git', 'Github','Anaconda','VS Code'],
+      gradient: 'from-red-500 to-pink-500',
+    },
   ];
 
   return (
