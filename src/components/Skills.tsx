@@ -35,8 +35,8 @@ export default function Skills() {
     },
     {
       icon: Server,
-      title: 'Backend',
-      skills: ['Node.js', 'Java'],
+      title: 'Machine Learning',
+      skills: ['Numpy', 'Pandas','Scikit-Learn','Supervised Algorithms','Unsupervised Algorithms'],
       gradient: 'from-red-500 to-pink-500',
     },
     {
