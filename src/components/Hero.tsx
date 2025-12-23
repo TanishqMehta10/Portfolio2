@@ -11,7 +11,7 @@ export default function Hero() {
               <div className="absolute inset-1 bg-gradient-to-r from-orange-300 via-red-300 to-pink-300 rounded-full animate-spin" style={{ animationDuration: '10s', animationDirection: 'reverse' }}></div>
               <div className="absolute inset-3 bg-white rounded-full flex items-center justify-center overflow-hidden shadow-2xl">
                 <img
-                  src="https://images.pexels.com/photos/1181690/pexels-photo-1181690.jpeg?auto=compress&cs=tinysrgb&w=400"
+                  src="https://www.linkedin.com/pulse/rise-anime-coding-where-art-meets-technology-vasanth-kumar-s-da4qe"
                   alt="Yukta Kapse"
                   className="w-full h-full object-cover"
                 />
